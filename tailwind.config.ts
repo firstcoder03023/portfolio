@@ -54,15 +54,15 @@ export default {
 				},
 				// Custom theme colors
 				dark: {
-					DEFAULT: '#000000',
-					100: '#1A1A1A',
-					200: '#333333',
+					DEFAULT: 'rgba(150, 150, 155, 0.5)',
+					100: 'rgba(0, 255, 255, 0.1)',
+					200: 'rgba(0, 255, 255, 0.1)',
 				},
 				glow: {
-					DEFAULT: 'rgba(255, 255, 255, 0.1)',
-					strong: 'rgba(255, 255, 255, 0.25)',
-					intense: 'rgba(255, 255, 255, 0.45)',
-					premium: 'rgba(255, 255, 255, 0.7)'
+					DEFAULT: 'rgba(0, 255, 255, 0.1)',
+					strong: 'rgba(255, 0, 255, 0.25)',
+					intense: 'rgba(255, 255, 0, 0.45)',
+					premium: 'rgba(255, 0, 255, 0.7)'
 				}
 			},
 			borderRadius: {
