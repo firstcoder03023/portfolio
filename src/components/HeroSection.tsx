@@ -45,7 +45,7 @@ const HeroSection: React.FC = () => {
             custom={0}
             variants={textVariants}
           >
-            Hi, I'm Winston Devo —
+            Hi, I'm HiHi Devo —
           </motion.span>{" "}
           <motion.span 
             className="inline-block hero-text-gradient"
